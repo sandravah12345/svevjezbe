@@ -1,0 +1,17 @@
+h1, li {
+    font-family: PTSans-Bolditalic, sans-serif;
+  }
+  #prviparagraf {
+    font-size: 1.2rem;
+    }
+
+    h1, #drugiparagraf, figcaption{
+      text-align: center;
+      }
+      em {
+        text-decoration: underline;
+        }
+        li .active 
+        {
+          color: darkred;
+          }
